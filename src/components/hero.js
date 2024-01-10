@@ -3,10 +3,10 @@ import { Link } from "gatsby"
 
 const Hero = ({ }) => (
     <section className="text-gray-600  body-font">
-      <div className="container mx-auto flex md:grid grid-cols-2   md:flex-row flex-col items-center">
-        <div className="">
-          <img className=" object-cover object-center rounded" alt="hero" src="https://res.cloudinary.com/docshhbla/image/upload/v1704304643/table%20ronde/Group_2_lolev6.png" />
-        </div>
+      <div className="container mx-auto flex md:grid grid-cols-2 w-12/12  md:flex-row flex-col items-center">
+          <img className=" object-cover object-center h-full" 
+          alt="hero" src="https://res.cloudinary.com/docshhbla/image/upload/v1704304643/table%20ronde/Group_2_lolev6.png"
+         />
         <div className=" bg-bordeaux h-full flex px-10 flex-col  gap-5 p-10  md:mb-0">
           <h1 className="  title-font sm:text-4xl text-3xl mb-4 font-medium text-white">table ronde politique sur le paysage de l’insertion socioprofessionnelle en Wallonie
           </h1>
