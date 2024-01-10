@@ -14,8 +14,8 @@ const Intervants = ({ }) => (
             </div>
             <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
                 <div className="flex flex-col gap-5">
-                    <h3 className="text font-bold">Christie Morreale - PS</h3>
-                    <h4> Vice-présidente du gouvernement wallon et ministre de l'Emploi, de l'Action sociale, de la Santé et de l'Égalité des Chances </h4>
+                    <h3 className=" text-xl font-bold">Christie Morreale - PS</h3>
+                    <h4 className="text-lg italic"> Vice-présidente du gouvernement wallon et ministre de l'Emploi, de l'Action sociale, de la Santé et de l'Égalité des Chances </h4>
                 </div>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor tempor urna eget vulputate. Maecenas consequat turpis sed nisi pretium, sed congue eros facilisis.
 
@@ -28,8 +28,8 @@ const Intervants = ({ }) => (
             </div>
             <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
                 <div className="flex flex-col gap-5">
-                    <h3 className="font-bold">Manu Disabato - Ecolo</h3>
-                    <h4> Député wallon, Député au Parlement de la fédération Wallonie-Bruxelles </h4><br/>
+                    <h3 className=" text-xl font-bold">Manu Disabato - Ecolo</h3>
+                    <h4 className="text-lg italic"> Député wallon, Député au Parlement de la fédération Wallonie-Bruxelles </h4><br/>
                     
                 </div>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor tempor urna eget vulputate. Maecenas consequat turpis sed nisi pretium, sed congue eros facilisis.
@@ -44,8 +44,8 @@ const Intervants = ({ }) => (
             </div>
             <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
                 <div className="flex flex-col gap-5">
-                    <h3 className="font-bold">Rachel Sobry - MR</h3>
-                    <h4> Députée wallonne, Députée au Parlement de la fédération Wallonie-Bruxelles </h4><br/>
+                    <h3 className="font-bold text-xl">Rachel Sobry - MR</h3>
+                    <h4 className="text-lg italic"> Députée wallonne, Députée au Parlement de la fédération Wallonie-Bruxelles </h4><br/>
                     
                 </div>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor tempor urna eget vulputate. Maecenas consequat turpis sed nisi pretium, sed congue eros facilisis.
