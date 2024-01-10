@@ -16,12 +16,23 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-image`,
+    'gatsby-plugin-postcss',
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
         path: `${__dirname}/src/images`,
       },
+    },
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [
+          `roboto`,
+          `montserrat` // you can also specify font weights and styles
+        ],
+        display: 'swap'
+      }
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,

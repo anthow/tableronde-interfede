@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#bgimage{
+    background-image: url(https://res.cloudinary.com/docshhbla/image/upload/v1704304643/table%20ronde/Group_2_lolev6.png);
+    background-size: cover;
+
+}
+
+p, ul li, a, span {
+    font-family: roboto;
+}
+
+h1,h2,h3,h4 {font-family: montserrat ;}
