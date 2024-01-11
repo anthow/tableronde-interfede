@@ -5,6 +5,7 @@ import Intervants from "../components/intervenants"
 import Hero from "../components/hero"
 import Programme from "../components/programme"
 import Form from "../components/form/Form"
+import Infos from "../components/info"
 
 const IndexPage = () => (
   <Layout>
@@ -12,6 +13,7 @@ const IndexPage = () => (
     <Programme />
     <Intervants />
     <Form />
+    <Infos/>
   </Layout>
 )
 

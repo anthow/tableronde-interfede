@@ -18,9 +18,9 @@ const Header = ({ siteTitle }) => (
     
     </nav>
     <nav className="flex flex-col md:flex-row gap-5">
-    <button class="inline-flex items-center bg-bordeaux text-white border-0 py-1 px-3 focus:outline-none hover:opacity-90 rounded text-xl mt-4 md:mt-0">Inscription
+    <button class="inline-flex items-center bg-bordeaux text-white border-0 py-1 px-3 focus:outline-none hover:opacity-90 rounded font-bold mt-4 md:mt-0">Inscription
     </button>
-    <button class="inline-flex items-center bg-bleu text-white border-0 py-1 px-3 focus:outline-none hover:opacity-90 rounded text-xl mt-4 md:mt-0">Interfede.be
+    <button class="inline-flex items-center bg-bleu text-white border-0 py-1 px-3 focus:outline-none hover:opacity-90 rounded font-bold mt-4 md:mt-0">Interfede.be
     </button>
     </nav>
 
