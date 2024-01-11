@@ -22,6 +22,23 @@ const Intervants = ({ }) => (
                     Maecenas sit amet neque auctor lorem scelerisque finibus aliquam ut metus. Proin quis egestas purus. Proin sagittis quam non maximus congue </p>
             </div>
         </section>
+        
+        <section className=" bg-mr flex flex-col text-white">
+        <div>
+                <img src="https://res.cloudinary.com/docshhbla/image/upload/v1704873550/table%20ronde/Rachel_Sobry_hkzyeh.jpg
+" className="w-full"></img>
+            </div>
+            <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
+                <div className="flex flex-col gap-5">
+                    <h3 className="font-bold text-xl">Rachel Sobry - MR</h3>
+                    <h4 className="text-lg italic"> Députée wallonne, Députée au Parlement de la fédération Wallonie-Bruxelles </h4><br/>
+                    
+                </div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor tempor urna eget vulputate. Maecenas consequat turpis sed nisi pretium, sed congue eros facilisis.
+
+                    Maecenas sit amet neque auctor lorem scelerisque finibus aliquam ut metus. Proin quis egestas purus. Proin sagittis quam non maximus congue </p>
+            </div>
+        </section>
         <section className="bg-ecolo flex flex-col text-white">
         <div>
                 <img src="https://res.cloudinary.com/docshhbla/image/upload/v1704860160/table%20ronde/0038_Region-Manu-DISABATO-HD_f9m9ws.jpg" className="w-full"></img>
@@ -37,16 +54,28 @@ const Intervants = ({ }) => (
                     Maecenas sit amet neque auctor lorem scelerisque finibus aliquam ut metus. Proin quis egestas purus. Proin sagittis quam non maximus congue </p>
             </div>
         </section>
-        <section className=" bg-mr flex flex-col text-white">
-        <div>
-                <img src="https://res.cloudinary.com/docshhbla/image/upload/v1704873550/table%20ronde/Rachel_Sobry_hkzyeh.jpg
-" className="w-full"></img>
-            </div>
+        <section className=" flex flex-col text-white items-center bg-engage">
+
+        
+                <img src="https://res.cloudinary.com/docshhbla/image/upload/c_crop,h_600,w_852/v1704895435/table%20ronde/Logo_Les_Engag%C3%A9es_avec_slogan_kufrq5.png" className=""></img>
             <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
                 <div className="flex flex-col gap-5">
-                    <h3 className="font-bold text-xl">Rachel Sobry - MR</h3>
-                    <h4 className="text-lg italic"> Députée wallonne, Députée au Parlement de la fédération Wallonie-Bruxelles </h4><br/>
-                    
+                    <h3 className=" text-xl font-bold">Les Engagés</h3>
+                    <h4 className="text-lg italic"> / </h4>
+                </div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor tempor urna eget vulputate. Maecenas consequat turpis sed nisi pretium, sed congue eros facilisis.
+
+                    Maecenas sit amet neque auctor lorem scelerisque finibus aliquam ut metus. Proin quis egestas purus. Proin sagittis quam non maximus congue </p>
+            </div>
+        </section>
+        <section className=" flex flex-col text-white items-center bg-ptb">
+
+        
+                <img src="https://res.cloudinary.com/docshhbla/image/upload/v1704896782/table%20ronde/PTB-logo_omth9r.png" className=""></img>
+            <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
+                <div className="flex flex-col gap-5">
+                    <h3 className=" text-xl font-bold">PTB</h3>
+                    <h4 className="text-lg italic"> / </h4>
                 </div>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor tempor urna eget vulputate. Maecenas consequat turpis sed nisi pretium, sed congue eros facilisis.
 

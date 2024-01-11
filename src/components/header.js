@@ -13,11 +13,17 @@ const Header = ({ siteTitle }) => (
       <a class="mr-5 hover:text-gray-900">Accueil</a>
       <a class="mr-5 hover:text-gray-900">Programme</a>
       <a class="mr-5 hover:text-gray-900">Intervants</a>
+      <a class="mr-5 hover:text-gray-900">Informations Pratiques</a>
+
     
     </nav>
+    <nav className="flex flex-col md:flex-row gap-5">
     <button class="inline-flex items-center bg-bordeaux text-white border-0 py-1 px-3 focus:outline-none hover:opacity-90 rounded text-xl mt-4 md:mt-0">Inscription
-  
     </button>
+    <button class="inline-flex items-center bg-bleu text-white border-0 py-1 px-3 focus:outline-none hover:opacity-90 rounded text-xl mt-4 md:mt-0">Interfede.be
+    </button>
+    </nav>
+
   </div>
     
   </header>
