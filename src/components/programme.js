@@ -1,13 +1,13 @@
 import * as React from "react"
 
 const Programme = ({ }) => (
-    <section className="py-24 flex flex-col gap-20 ">
+    <section id="programme" className="py-24 flex flex-col gap-20 ">
       <h2 className="title-font sm:text-4xl text-bleu text-3xl mb-4  text-center font-medium text-bordeaux">Le programme
       </h2>
 
       <ul className="timeline w-10/12 md:6/12 m-auto timeline-vertical">
         <li>
-          <div className="timeline-start  bg-bordeaux p-4 text-white timeline-box">
+          <div className="timeline-start items-center   bg-bordeaux p-4 text-white timeline-box">
             <span className=" bg-white text-bordeaux text-xl">15h30</span>
             <p>Accueil des invités et des intervenants</p></div>
           <hr />

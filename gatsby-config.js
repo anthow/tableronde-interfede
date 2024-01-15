@@ -9,10 +9,10 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    title: `Table ronde - Interfédé`,
+    description: `Table ronde de l'Interfédé des CISP le 14 mars 2024 à Namur.`,
+    author: `Anthony Englebert`,
+    siteUrl: `https://tableronde.interfede.be`,
   },
   plugins: [
     `gatsby-plugin-image`,

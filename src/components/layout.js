@@ -25,7 +25,7 @@ const Layout = ({ children }) => {
       <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
       <div>
         <main>{children}</main>
-        <footer className="bg-bordeaux px-2 text-center">
+        <footer className="bg-bordeaux text-white px-2 text-center">
           Interfédé - 2024
         </footer>
       </div>

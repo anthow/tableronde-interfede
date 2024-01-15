@@ -1,7 +1,7 @@
 import * as React from "react"
 
 const Intervants = ({ }) => (
-    <div className="">
+    <div id="intervenants" className="">
     <h2 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-bordeaux mb-20 text-center">Les intervenants</h2>
 
     <article className="flex flex-col md:grid grid-cols-3">
