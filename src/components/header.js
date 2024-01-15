@@ -12,8 +12,8 @@ const Header = ({ siteTitle }) => (
     <nav class="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
       <a class="mr-5 hover:text-gray-900">Accueil</a>
       <a class="mr-5 hover:text-gray-900">Programme</a>
-      <a class="mr-5 hover:text-gray-900">Intervants</a>
-      <a class="mr-5 hover:text-gray-900">Informations Pratiques</a>
+      <a class="mr-5 hover:text-gray-900">Intervenants</a>
+      <a class="mr-5 hover:text-gray-900">Informations pratiques</a>
 
     
     </nav>

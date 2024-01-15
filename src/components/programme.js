@@ -9,7 +9,7 @@ const Programme = ({ }) => (
         <li>
           <div className="timeline-start  bg-bordeaux p-4 text-white timeline-box">
             <span className=" underline text-xl">15h30</span>
-            <p>Accueil des invités et des participants</p></div>
+            <p>Accueil des invités et des intervenants</p></div>
           <hr />
         </li>
         <li>
@@ -24,7 +24,7 @@ const Programme = ({ }) => (
           <hr />
           <div className="timeline-start bg-bordeaux  md:w-1/2 p-4 text-white timeline-box">
             <span className=" bg-white text-bordeaux text-xl">16h15 - 18h</span>
-            <p>table ronde politique avec des représentants des différents partis politiques.</p>
+            <p>Table ronde politique avec des représentants des différents partis politiques.</p>
           </div>
           <hr />
         </li>

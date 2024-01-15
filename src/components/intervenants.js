@@ -14,9 +14,9 @@ const Intervants = ({ }) => (
             <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
                 <div className="flex flex-col gap-5">
                     <h3 className=" text-xl font-bold">Christie Morreale - PS</h3>
-                    <h4 className="text-lg italic"> Vice-présidente du gouvernement wallon et ministre de l'Emploi, de l'Action sociale, de la Santé et de l'Égalité des Chances </h4>
+                    <h4 className="text-lg italic"> Vice-présidente du gouvernement wallon et ministre de l'Emploi, de l'action sociale, de la Santé et de l'égalité des Chances </h4>
                 </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor tempor urna eget vulputate. Maecenas consequat turpis sed nisi pretium, sed congue eros facilisis.
+                <p className="hidden">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor tempor urna eget vulputate. Maecenas consequat turpis sed nisi pretium, sed congue eros facilisis.
 
                     Maecenas sit amet neque auctor lorem scelerisque finibus aliquam ut metus. Proin quis egestas purus. Proin sagittis quam non maximus congue </p>
             </div>
@@ -30,10 +30,10 @@ const Intervants = ({ }) => (
             <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
                 <div className="flex flex-col gap-5">
                     <h3 className="font-bold text-xl">Rachel Sobry - MR</h3>
-                    <h4 className="text-lg italic"> Députée wallonne, Députée au Parlement de la fédération Wallonie-Bruxelles </h4><br/>
+                    <h4 className="text-lg italic"> Députée wallonne, députée au Parlement de la fédération Wallonie-Bruxelles - membre de la Commission emploi du Parlement Wallon </h4>
                     
                 </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor tempor urna eget vulputate. Maecenas consequat turpis sed nisi pretium, sed congue eros facilisis.
+                <p className="hidden">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor tempor urna eget vulputate. Maecenas consequat turpis sed nisi pretium, sed congue eros facilisis.
 
                     Maecenas sit amet neque auctor lorem scelerisque finibus aliquam ut metus. Proin quis egestas purus. Proin sagittis quam non maximus congue </p>
             </div>
@@ -45,10 +45,10 @@ const Intervants = ({ }) => (
             <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
                 <div className="flex flex-col gap-5">
                     <h3 className=" text-xl font-bold">Manu Disabato - Ecolo</h3>
-                    <h4 className="text-lg italic"> Député wallon, Député au Parlement de la fédération Wallonie-Bruxelles </h4><br/>
+                    <h4 className="text-lg italic"> Député wallon, député au Parlement de la fédération Wallonie-Bruxelles - membre de la Commission emploi du Parlement Wallon </h4>
                     
                 </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor tempor urna eget vulputate. Maecenas consequat turpis sed nisi pretium, sed congue eros facilisis.
+                <p className="hidden">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor tempor urna eget vulputate. Maecenas consequat turpis sed nisi pretium, sed congue eros facilisis.
 
                     Maecenas sit amet neque auctor lorem scelerisque finibus aliquam ut metus. Proin quis egestas purus. Proin sagittis quam non maximus congue </p>
             </div>
@@ -56,13 +56,13 @@ const Intervants = ({ }) => (
         <section className=" flex flex-col text-white items-center bg-engage">
 
         
-                <img src="https://res.cloudinary.com/docshhbla/image/upload/c_crop,h_600,w_852/v1704895435/table%20ronde/Logo_Les_Engag%C3%A9es_avec_slogan_kufrq5.png" className=""></img>
+                <img src="https://res.cloudinary.com/docshhbla/image/upload/v1705067783/les-engages-logo_qqno6i.jpg" className=""></img>
             <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
                 <div className="flex flex-col gap-5">
                     <h3 className=" text-xl font-bold">Les Engagés</h3>
-                    <h4 className="text-lg italic"> / </h4>
+                    <h4 className="text-lg italic"> intervenant(e) encore à confirmer </h4>
                 </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor tempor urna eget vulputate. Maecenas consequat turpis sed nisi pretium, sed congue eros facilisis.
+                <p className="hidden">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor tempor urna eget vulputate. Maecenas consequat turpis sed nisi pretium, sed congue eros facilisis.
 
                     Maecenas sit amet neque auctor lorem scelerisque finibus aliquam ut metus. Proin quis egestas purus. Proin sagittis quam non maximus congue </p>
             </div>
@@ -70,13 +70,13 @@ const Intervants = ({ }) => (
         <section className=" flex flex-col text-white items-center bg-ptb">
 
         
-                <img src="https://res.cloudinary.com/docshhbla/image/upload/v1704896782/table%20ronde/PTB-logo_omth9r.png" className=""></img>
+                <img src="https://res.cloudinary.com/docshhbla/image/upload/v1705052628/ptb_mohv70.webp" className="w-full"></img>
             <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
                 <div className="flex flex-col gap-5">
-                    <h3 className=" text-xl font-bold">PTB</h3>
-                    <h4 className="text-lg italic"> / </h4>
+                    <h3 className=" text-xl font-bold">Alice bernard - PTB</h3>
+                    <h4 className="text-lg italic"> Députée wallonne, députée au Parlement de la fédération Wallonie-Bruxelles </h4>
                 </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor tempor urna eget vulputate. Maecenas consequat turpis sed nisi pretium, sed congue eros facilisis.
+                <p className="hidden">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor tempor urna eget vulputate. Maecenas consequat turpis sed nisi pretium, sed congue eros facilisis.
 
                     Maecenas sit amet neque auctor lorem scelerisque finibus aliquam ut metus. Proin quis egestas purus. Proin sagittis quam non maximus congue </p>
             </div>
