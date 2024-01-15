@@ -13,7 +13,7 @@ const IndexPage = () => (
     <Programme />
     <Intervants />
     <Form />
-    <Infos/>
+    <Infos className=""/>
   </Layout>
 )
 

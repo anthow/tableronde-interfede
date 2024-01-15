@@ -1,7 +1,7 @@
 import * as React from "react"
 
 const Infos = ({ }) => (
-    <article className="text-gray-600 py-20 w-10/12 m-auto flex flex-col gap-10  body-font">
+    <article className="hidden text-gray-600 py-20 w-10/12 m-auto flex flex-col gap-10  body-font">
   <h2 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-bordeaux mb-20 text-center">Informations pratiques</h2>
 <section className="flex flex-col gap-10 md:grid grid-cols-3 items-center">
     <div className="flex flex-col gap-5 items-center">

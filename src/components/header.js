@@ -13,7 +13,7 @@ const Header = ({ siteTitle }) => (
       <a class="mr-5 hover:text-gray-900">Accueil</a>
       <a class="mr-5 hover:text-gray-900">Programme</a>
       <a class="mr-5 hover:text-gray-900">Intervenants</a>
-      <a class="mr-5 hover:text-gray-900">Informations pratiques</a>
+      <a class="mr-5 hover:text-gray-900 hidden">Informations pratiques</a>
 
     
     </nav>

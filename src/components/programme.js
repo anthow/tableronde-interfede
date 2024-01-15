@@ -8,15 +8,15 @@ const Programme = ({ }) => (
       <ul className="timeline w-10/12 md:6/12 m-auto timeline-vertical">
         <li>
           <div className="timeline-start  bg-bordeaux p-4 text-white timeline-box">
-            <span className=" underline text-xl">15h30</span>
+            <span className=" bg-white text-bordeaux text-xl">15h30</span>
             <p>Accueil des invités et des intervenants</p></div>
           <hr />
         </li>
         <li>
           <hr />
-          <div className="timeline-end bg-bleu md:w-1/2 p-4 text-white timeline-box">
-            <span className=" underline pb-5 text-xl">16h</span>
-            <p>Allocution d’ouverture par Anne-Hélène Lulling, Secrétaire générale de l’Interfédération des CISP</p>
+          <div className="timeline-end bg-bleu md:w-1/2 p-4  timeline-box">
+            <span className=" bg-white text-bleu text-xl">16h</span>
+            <p className="text-white">Allocution d’ouverture par Anne-Hélène Lulling, Secrétaire générale de l’Interfédération des CISP</p>
           </div>
           <hr />
         </li>
@@ -24,7 +24,7 @@ const Programme = ({ }) => (
           <hr />
           <div className="timeline-start bg-bordeaux  md:w-1/2 p-4 text-white timeline-box">
             <span className=" bg-white text-bordeaux text-xl">16h15 - 18h</span>
-            <p>Table ronde politique avec des représentants des différents partis politiques.</p>
+            <p>Table ronde politique avec des représentants des différents partis politiques</p>
           </div>
           <hr />
         </li>
