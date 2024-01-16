@@ -32,7 +32,7 @@ const Programme = ({ }) => (
           <hr />
           <div className="timeline-end bg-bleu md:w-1/2 p-4 text-white  timeline-box">   
           <span className=" bg-white text-bleu text-xl mb-10">18h - 20h</span>
-            <p>Cocktail apéritif pour poursuivre les débats</p></div>
+            <p> Apéritif dinatoire pour poursuivre les débats</p></div>
           <hr />
         </li>
       </ul>
