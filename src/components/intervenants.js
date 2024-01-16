@@ -9,7 +9,7 @@ const Intervants = ({ }) => (
         <section className=" flex flex-col text-white items-center bg-ps">
 
             <div>
-                <img src="https://res.cloudinary.com/docshhbla/image/upload/v1704814091/table%20ronde/Christie_morreale_ykhdwt.jpg" className=""></img>
+                <img alt="Photo de Christie Morreale du PS, intervenante lors de la table ronde politique de l'Interfédération des CISP, le 14 mars 2024 à Namur" src="https://res.cloudinary.com/docshhbla/image/upload/v1704814091/table%20ronde/Christie_morreale_ykhdwt.jpg" className=""></img>
             </div>
             <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
                 <div className="flex flex-col gap-5">
@@ -24,7 +24,8 @@ const Intervants = ({ }) => (
         
         <section className=" bg-mr flex flex-col text-white">
         <div>
-                <img src="https://res.cloudinary.com/docshhbla/image/upload/v1704873550/table%20ronde/Rachel_Sobry_hkzyeh.jpg
+                <img alt="Photo de Rachel Sobry du MR, intervenante lors de la table ronde politique de l'Interfédération des CISP, le 14 mars 2024 à Namur"
+                 src="https://res.cloudinary.com/docshhbla/image/upload/v1704873550/table%20ronde/Rachel_Sobry_hkzyeh.jpg
 " className="w-full"></img>
             </div>
             <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
@@ -40,7 +41,8 @@ const Intervants = ({ }) => (
         </section>
         <section className="bg-ecolo flex flex-col text-white">
         <div>
-                <img src="https://res.cloudinary.com/docshhbla/image/upload/v1704860160/table%20ronde/0038_Region-Manu-DISABATO-HD_f9m9ws.jpg" className="w-full"></img>
+                <img alt="Photo de Manu Disabato d'Ecolo, intervenant lors de la table ronde politique de l'Interfédération des CISP, le 14 mars 2024 à Namur"
+                 src="https://res.cloudinary.com/docshhbla/image/upload/v1704860160/table%20ronde/0038_Region-Manu-DISABATO-HD_f9m9ws.jpg" className="w-full"></img>
             </div>
             <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
                 <div className="flex flex-col gap-5">
@@ -56,7 +58,7 @@ const Intervants = ({ }) => (
         <section className=" flex flex-col text-white items-center bg-engage">
 
         
-                <img src="https://res.cloudinary.com/docshhbla/image/upload/v1705067783/les-engages-logo_qqno6i.jpg" className=""></img>
+                <img alt="Logo du parti politique 'Les Engagés', participant à la table ronde politique de l'Interfédération des CISP, le 14 mars 2024 à Namur" src="https://res.cloudinary.com/docshhbla/image/upload/v1705067783/les-engages-logo_qqno6i.jpg" className=""></img>
             <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
                 <div className="flex flex-col gap-5">
                     <h3 className=" text-xl font-bold">Les Engagés</h3>
@@ -70,7 +72,8 @@ const Intervants = ({ }) => (
         <section className=" flex flex-col text-white items-center bg-ptb">
 
         
-                <img src="https://res.cloudinary.com/docshhbla/image/upload/v1705052628/ptb_mohv70.webp" className="w-full"></img>
+                <img  alt="Photo d' Alice Bernard du MR, intervenante lors de la table ronde politique de l'Interfédération des CISP, le 14 mars 2024 à Namur"
+                 src="https://res.cloudinary.com/docshhbla/image/upload/v1705052628/ptb_mohv70.webp" className="w-full"></img>
             <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
                 <div className="flex flex-col gap-5">
                     <h3 className=" text-xl font-bold">Alice Bernard - PTB</h3>
