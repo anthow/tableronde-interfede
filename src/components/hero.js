@@ -10,7 +10,7 @@ const Hero = ({ }) => (
       <div className=" bg-bordeaux h-full flex px-10 flex-col pt-20  gap-5 p-10  md:mb-0">
         <h1 className="  title-font sm:text-4xl text-3xl mb-4 font-medium text-white">Table ronde politique sur le paysage de l’insertion socioprofessionnelle en Wallonie
         </h1>
-        <h2 className="title-font sm:text-4xl text-3xl mb-4 text-white font-medium ">Namur - 14 Mars 2024
+        <h2 className="title-font sm:text-3xl text-2xl mb-4 text-white font-medium ">Namur - 14 Mars 2024
         </h2>
         <div className="text-black hidden">
           <p className="">
