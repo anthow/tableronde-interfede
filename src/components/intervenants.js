@@ -30,7 +30,7 @@ const Intervants = ({ }) => (
             <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
                 <div className="flex flex-col gap-5">
                     <h3 className="font-bold text-xl">Rachel Sobry - MR</h3>
-                    <h4 className="text-lg italic"> Députée wallonne, députée au Parlement de la fédération Wallonie-Bruxelles - membre de la Commission emploi du Parlement wallon </h4>
+                    <h4 className="text-lg italic"> Députée wallonne, députée au parlement de la fédération Wallonie-Bruxelles - membre de la Commission emploi du Parlement wallon </h4>
                     
                 </div>
                 <p className="hidden">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor tempor urna eget vulputate. Maecenas consequat turpis sed nisi pretium, sed congue eros facilisis.
@@ -45,7 +45,7 @@ const Intervants = ({ }) => (
             <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
                 <div className="flex flex-col gap-5">
                     <h3 className=" text-xl font-bold">Manu Disabato - Ecolo</h3>
-                    <h4 className="text-lg italic"> Député wallon, député au Parlement de la fédération Wallonie-Bruxelles - vice-président de la Commission emploi du Parlement wallon </h4>
+                    <h4 className="text-lg italic"> Député wallon, député au parlement de la fédération Wallonie-Bruxelles - vice-président de la Commission emploi du Parlement wallon </h4>
                     
                 </div>
                 <p className="hidden">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor tempor urna eget vulputate. Maecenas consequat turpis sed nisi pretium, sed congue eros facilisis.
@@ -74,7 +74,7 @@ const Intervants = ({ }) => (
             <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
                 <div className="flex flex-col gap-5">
                     <h3 className=" text-xl font-bold">Alice Bernard - PTB</h3>
-                    <h4 className="text-lg italic"> Députée wallonne, députée au Parlement de la fédération Wallonie-Bruxelles </h4>
+                    <h4 className="text-lg italic"> Députée wallonne, députée au parlement de la fédération Wallonie-Bruxelles </h4>
                 </div>
                 <p className="hidden">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor tempor urna eget vulputate. Maecenas consequat turpis sed nisi pretium, sed congue eros facilisis.
 
