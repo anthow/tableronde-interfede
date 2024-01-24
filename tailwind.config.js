@@ -13,7 +13,9 @@ module.exports = {
         'ps': '#ff0000',
         'mr': '#002eff',
         'engage': '#00e3cf',
-        'ptb' : '#ef4135'
+        'ptb' : '#ef4135',
+        'defi' : '#dd007a',
+        
 
       },
     },
