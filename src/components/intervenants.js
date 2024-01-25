@@ -95,7 +95,7 @@ const Intervants = ({ }) => (
                 <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
                     <div className="flex flex-col gap-5">
                         <h3 className=" text-xl font-bold">Julien Lemoine  - Défi</h3>
-                        <h4 className="text-lg italic"> Conseiller communal et chef de groupe Défi au conseil communal de la Ville de Namur.<br /> tête de liste pour les élections fédérales dans la circonscription de Namur </h4>
+                        <h4 className="text-lg italic"> Conseiller communal et chef de groupe Défi au conseil communal de Namur.<br /> Tête de liste pour les élections fédérales dans la circonscription de Namur </h4>
                     </div>
                     <p className="hidden">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor tempor urna eget vulputate. Maecenas consequat turpis sed nisi pretium, sed congue eros facilisis.
 
