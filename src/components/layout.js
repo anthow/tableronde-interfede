@@ -29,6 +29,7 @@ const Layout = ({ children }) => {
           Interfédé - 2024
         </footer>
       </div>
+      <script async defer src="https://scripts.withcabin.com/hello.js"></script>
     </>
   )
 }

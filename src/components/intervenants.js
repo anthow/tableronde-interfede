@@ -89,8 +89,8 @@ const Intervants = ({ }) => (
             <section className=" flex flex-col text-white items-center bg-defi">
 
                 <div>
-                    <img alt="Photo de Julien Lemoine de Défie, intervenant lors de la table ronde politique de l'Interfédération des CISP, le 14 mars 2024 à Namur" 
-                    src="https://res.cloudinary.com/docshhbla/image/upload/v1706108694/table%20ronde/julien_Lemoine_2_rgvrqc.jpg" className=""></img>
+                    <img alt="Photo de Julien Lemoine de Défie, intervenant lors de la table ronde politique de l'Interfédération des CISP, le 14 mars 2024 à Namur"
+                        src="https://res.cloudinary.com/docshhbla/image/upload/v1706108694/table%20ronde/julien_Lemoine_2_rgvrqc.jpg" className=""></img>
                 </div>
                 <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
                     <div className="flex flex-col gap-5">
