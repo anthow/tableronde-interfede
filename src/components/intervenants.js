@@ -90,12 +90,12 @@ const Intervants = ({ }) => (
 
                 <div>
                     <img alt="Photo de Julien Lemoine de Défie, intervenant lors de la table ronde politique de l'Interfédération des CISP, le 14 mars 2024 à Namur"
-                        src="https://res.cloudinary.com/docshhbla/image/upload/v1706108694/table%20ronde/julien_Lemoine_2_rgvrqc.jpg" className=""></img>
+                        src="https://res.cloudinary.com/docshhbla/image/upload/v1707317174/table%20ronde/291121-actu-cop26-alexandre_1_qkbecz.jpg" className=""></img>
                 </div>
                 <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
                     <div className="flex flex-col gap-5">
-                        <h3 className=" text-xl font-bold">Julien Lemoine  - Défi</h3>
-                        <h4 className="text-lg italic"> Conseiller communal et chef de groupe Défi au conseil communal de Namur.<br /> Tête de liste pour les élections fédérales dans la circonscription de Namur </h4>
+                        <h3 className=" text-xl font-bold">Amaury Alexandre - Défi</h3>
+                        <h4 className="text-lg italic"> Député provincial à Namur.<br /> </h4>
                     </div>
                     <p className="hidden">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor tempor urna eget vulputate. Maecenas consequat turpis sed nisi pretium, sed congue eros facilisis.
 
