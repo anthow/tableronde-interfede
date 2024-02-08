@@ -56,6 +56,23 @@ const Intervants = ({ }) => (
                 </div>
             </section>
 
+            <section className=" flex flex-col text-white items-center bg-engage">
+
+
+                <img alt="Logo du parti politique 'Les Engagés', participant à la table ronde politique de l'Interfédération des CISP, le 14 mars 2024 à Namur"
+                    src="https://res.cloudinary.com/docshhbla/image/upload/v1707387649/2e94f2aa8e40479ca0ac1fd98a70aa7e_1_j9n2n4.jpg" className=""></img>
+                <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
+                    <div className="flex flex-col gap-5">
+                        <h3 className=" text-xl font-bold">Benoit Dispa - Les Engagés</h3>
+                        <h4 className="text-lg italic"> Député wallon, député au Parlement de la fédération Wallonie-Bruxelles  </h4>
+                    </div>
+                    <p className="hidden">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor tempor urna eget vulputate. Maecenas consequat turpis sed nisi pretium, sed congue eros facilisis.
+
+                        Maecenas sit amet neque auctor lorem scelerisque finibus aliquam ut metus. Proin quis egestas purus. Proin sagittis quam non maximus congue </p>
+                </div>
+            </section>
+
+
             <section className=" flex flex-col text-white items-center bg-ptb">
 
 
@@ -71,21 +88,7 @@ const Intervants = ({ }) => (
                         Maecenas sit amet neque auctor lorem scelerisque finibus aliquam ut metus. Proin quis egestas purus. Proin sagittis quam non maximus congue </p>
                 </div>
             </section>
-            <section className=" flex flex-col text-white items-center bg-engage">
 
-
-                <img alt="Logo du parti politique 'Les Engagés', participant à la table ronde politique de l'Interfédération des CISP, le 14 mars 2024 à Namur" 
-                src="https://res.cloudinary.com/docshhbla/image/upload/v1707387649/2e94f2aa8e40479ca0ac1fd98a70aa7e_1_j9n2n4.jpg" className=""></img>
-                <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
-                    <div className="flex flex-col gap-5">
-                        <h3 className=" text-xl font-bold">Benoit Dispa - Les Engagés</h3>
-                        <h4 className="text-lg italic"> Député wallon, député au Parlement de la fédération Wallonie-Bruxelles  </h4>
-                    </div>
-                    <p className="hidden">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor tempor urna eget vulputate. Maecenas consequat turpis sed nisi pretium, sed congue eros facilisis.
-
-                        Maecenas sit amet neque auctor lorem scelerisque finibus aliquam ut metus. Proin quis egestas purus. Proin sagittis quam non maximus congue </p>
-                </div>
-            </section>
 
             <section className=" flex flex-col text-white items-center bg-defi">
 
