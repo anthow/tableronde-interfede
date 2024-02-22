@@ -1,8 +1,8 @@
 import * as React from "react"
 
 const Presentation = ({ }) => (
-    <div id="intervenants" className="">
-        <h2 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-bordeaux m-20 text-center">Table ronde animée par </h2>
+    <div id="animatrice" className="">
+        <h2 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-bordeaux m-20  text-center">Table ronde animée par </h2>
         <article className="flex mt-10 flex-col md:grid grid-cols-3">
         <img className="col-span-1 order-1 md:order-2" alt="Photo de Charlotte Baut, animatrice lors de la table ronde politique de l'Interfédération des CISP, le 14 mars 2024 à Namur"
                         src="https://res.cloudinary.com/docshhbla/image/upload/v1708588832/table%20ronde/CB_-_PORTRAIT2024_rx4moq.jpg"/>

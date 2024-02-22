@@ -24,7 +24,7 @@ const Layout = ({ children }) => {
     <>
       <Header siteTitle={data.site.siteMetadata?.title} />
       <div>
-        <main>{children}</main>
+        <main className="flex flex-col gap-20">{children}</main>
         <footer className="bg-bordeaux text-white px-2 text-center">
           Interfédé - 2024
         </footer>
