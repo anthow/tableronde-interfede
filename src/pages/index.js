@@ -6,12 +6,14 @@ import Hero from "../components/hero"
 import Programme from "../components/programme"
 import Form from "../components/form/Form"
 import Infos from "../components/info"
+import Presentation from "../components/presentation"
 
 const IndexPage = () => (
   <Layout>
     <Hero />
     <Programme />
     <Intervants />
+    <Presentation/>
     <Form />
     <Infos className=""/>
   </Layout>
