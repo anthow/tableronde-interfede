@@ -12,7 +12,7 @@ const Header = ({ siteTitle }) => (
     <nav class="md:ml-auto hidden md:flex md:mr-auto  flex-wrap items-center text-base  justify-center">
       <a href="#programme" class="mr-5 hover:text-gray-900">Programme</a>
       <a href="#intervenants" class="mr-5 hover:text-gray-900">Intervenants</a>
-      <a href="#animatrice" class="mr-5 hover:text-gray-900 ">animatrice du débat</a>
+      <a href="#animatrice" class="mr-5 hover:text-gray-900 ">Animatrice du débat</a>
       <a href="#info" class="mr-5 hover:text-gray-900 hidden">Informations pratiques</a>
 
     
