@@ -11,7 +11,7 @@ const Presentation = ({ }) => (
                 <div className="flex w-10/12 m-auto flex-col gap-5">
                 <p className="">
                     A Paris, Jean-Luc Delarue intègre Charlotte Baut dans l'équipe de Reservoir Prod, elle découvre le journalisme et les belles histoires humaines au début de sa carrière de 1998 à 2001.</p>
-                    <p> A Bruxelles, le groupe RTL confie une mission de production audiovisuelle de 2001 à 2018.</p> <p>Ensuite, Charlotte Baut crée The Louise Company pour accompagner les entreprises dans leurs défis de communication en Belgique et en France.</p> 
+                    <p> A Bruxelles, le groupe RTL lui confie une mission de production audiovisuelle de 2001 à 2018.</p> <p>Ensuite, Charlotte Baut crée The Louise Company pour accompagner les entreprises dans leurs défis de communication en Belgique et en France.</p> 
                     <p>Campagnes digitales partout en Europe, création de fondation, consultance,... Après 20 ans dans les médias, Charlotte Baut accompagne les décideurs et leurs équipes dans la diffusion de leurs messages auprès du grand public.</p> <p>
                         Plus qu'un métier, c'est une passion qui anime toute l'équipe d'indépendants chez The Louise Company.
                 </p>
