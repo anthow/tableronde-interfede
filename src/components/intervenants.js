@@ -77,7 +77,7 @@ const Intervants = ({ }) => (
 
 
                 <img alt="Photo d' Alice Bernard du MR, intervenante lors de la table ronde politique de l'Interfédération des CISP, le 14 mars 2024 à Namur"
-                    src="https://res.cloudinary.com/docshhbla/image/upload/v1705052628/ptb_mohv70.webp" className="w-full"></img>
+                    src="https://res.cloudinary.com/docshhbla/image/upload/v1709623951/table%20ronde/alice_bernard_k3opjd.png" className="w-full"></img>
                 <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
                     <div className="flex flex-col gap-5">
                         <h3 className=" text-xl font-bold">Alice Bernard - PTB</h3>
