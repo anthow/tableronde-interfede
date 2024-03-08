@@ -15,7 +15,7 @@ const IndexPage = () => (
     <Intervants />
     <Presentation/>
     <Form />
-    <Infos className=""/>
+    <Infos/>
   </Layout>
 )
 
