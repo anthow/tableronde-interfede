@@ -5,7 +5,7 @@ const Infos = ({ }) => (
   <h2 className="sm:text-3xl text-2xl text-center m-auto  font-medium title-font mb-4 text-bordeaux mb-20 text-center">Informations pratiques</h2>
 <section className="flex flex-col gap-10 md:grid grid-cols-3 items-start ">
     <div className="flex flex-col gap-5 items-center">
-       <h3 className="text-xl text-bleu font-semibold">🕒 Horraire: </h3>
+       <h3 className="text-xl text-bleu font-semibold">🕒 Horaire: </h3>
        <p>Jeudi 14 mars 2024
 à 15h30</p><br/>
 <h4 className="text-xl text-bleu font-semibold">📍Adresse:</h4>
