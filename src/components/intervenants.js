@@ -24,13 +24,13 @@ const Intervants = ({ }) => (
 
             <section className=" bg-mr flex flex-col text-white">
                 <div>
-                    <img alt="Photo de Vincent Maillen du MR, intervenant lors de la table ronde politique de l'Interfédération des CISP, le 14 mars 2024 à Namur"
-                        src="https://res.cloudinary.com/docshhbla/image/upload/v1709880519/MAILLEN_VINCENT_wtyp6a.jpg" className="w-full"></img>
+                    <img alt="Photo de Richard Fournaux du MR, intervenant lors de la table ronde politique de l'Interfédération des CISP, le 14 mars 2024 à Namur"
+                        src="https://res.cloudinary.com/docshhbla/image/upload/v1710335094/table%20ronde/RichardFournaux_2_dhribt.jpg" className="w-full"></img>
                 </div>
                 <div className="gap-10 my-5 flex flex-col w-10/12 m-auto gap-10 items-center">
                     <div className="flex flex-col gap-5">
-                        <h3 className="font-bold text-xl">Vincent Maillen - MR</h3>
-                        <h4 className="text-lg italic"> Tête de liste aux élections régionales pour la circonscription de Namur Capitale </h4>
+                        <h3 className="font-bold text-xl">Richard Fournaux - MR</h3>
+                        <h4 className="text-lg italic"> Député provincial à Namur </h4>
 
                     </div>
                     <p className="hidden">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor tempor urna eget vulputate. Maecenas consequat turpis sed nisi pretium, sed congue eros facilisis.
